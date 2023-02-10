@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to portfilio-2021 👋</h1>
+<h1 align="center">Welcome to portfilio-2023 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v1-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -6,10 +6,10 @@
   </a>
 </p>
 
-> My personal portfolio 2021
+> My personal portfolio 2023
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/CQ59Qif6fp7QmhepYf/giphy.gif" alt="portfolio gif!" width="400px" />
+  <img src="" alt="portfolio gif!" width="400px" />
   <br>
 </h2>
 
