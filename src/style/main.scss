@@ -1,0 +1,29 @@
+@import "./components/footer";
+@import "./components/aboutme";
+@import "./components/landingpage";
+@import "./components/button";
+@import "./components/header";
+@import "./components/skills";
+@import "./components/contactform";
+@import "./components/project";
+@import "./components/projectDetails";
+
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: white;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: black;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: red;
+}
