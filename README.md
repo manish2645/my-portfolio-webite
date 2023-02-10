@@ -13,7 +13,7 @@
   <br>
 </h2>
 
-### ✨ [Live](https://portfoliolaxman159.netlify.app/)
+### ✨ [Live](https:)
 
 ## Features
 
@@ -48,14 +48,14 @@ yarn@v1.21.1 or higher
 
 ## How To Use 🔧
 
-From your command line, first clone portfolio-2021:
+From your command line, first clone portfolio-2023:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/laxman159/portfolio.git
+$ git clone https://github.com/manish2645/portfolio.git
 
 # Go into the repository
-$ cd portfolio-2021
+$ cd portfolio
 ```
 
 Then you can install the dependencies either using NPM or Yarn:
@@ -88,11 +88,11 @@ I recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST
 
 ## Author
 
-👤 **Laxman Sharma**
+👤 **Manish Kumar Singh**
 
 - Website: https://portfoliolaxman159.netlify.app/
-- Github: [@laxman159](https://github.com/laxman159)
-- LinkedIn: [@Laxman Sharma](https://linkedin.com/in/Laxman Sharma)
+- Github: [@manish264](https://github.com/manish2645/my-portfolio-webite)
+- LinkedIn: [@Manish Kumar Singh](https://www.linkedin.com/in/manish-kumar-singh-75931721a)
 
 ## Show your support
 
