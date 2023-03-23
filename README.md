@@ -90,7 +90,7 @@ I recommend to use [Netlify](https://netlify.com) to achieve this on the EASIEST
 
 👤 **Manish Kumar Singh**
 
-- Website: 
+- Website: https://insanecoders.me/
 - Github: [@manish264](https://github.com/manish2645/my-portfolio-webite)
 - LinkedIn: [@Manish Kumar Singh](https://www.linkedin.com/in/manish-kumar-singh-75931721a)
 
