@@ -13,7 +13,7 @@
   <br>
 </h2>
 
-### ✨ [Live](https:)
+### ✨ [Live](https://insanecoders.me/)
 
 ## Features
 
